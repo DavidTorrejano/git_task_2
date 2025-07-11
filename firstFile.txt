@@ -1,5 +1,5 @@
-1
-2
+1 changed_from_clon
+2 changed_from_clon
 3
 4 step7
 5 step7
